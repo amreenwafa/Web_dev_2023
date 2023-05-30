@@ -17,3 +17,7 @@
 #yellow {
   color: rgb(255, 196, 0);
 }
+
+.color-title {
+  font-weight: normal;
+}
