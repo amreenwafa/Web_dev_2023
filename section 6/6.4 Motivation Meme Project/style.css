@@ -3,11 +3,13 @@ body {
 }
 #boder {
   border: 5px solid white;
+  margin-top: 50px;
 }
 
 #text {
   text-transform: uppercase;
   color: aliceblue;
+  font-family: "Miltonian", cursive;
 }
 
 #add {
