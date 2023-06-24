@@ -11,6 +11,6 @@ p {
   padding: 0;
 }
 
-.box inner-box {
+.white-text {
   background-color: red;
-}
+  color:white;
