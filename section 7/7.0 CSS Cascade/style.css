@@ -13,4 +13,10 @@ p {
 
 .white-text {
   background-color: red;
-  color:white;
+  color: white;
+}
+
+# outer-box {
+  padding: 10px;
+  color: black;
+}
