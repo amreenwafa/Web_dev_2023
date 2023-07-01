@@ -12,11 +12,13 @@ p {
 }
 
 .white-text {
-  background-color: red;
   color: white;
 }
 
-# outer-box {
-  padding: 10px;
-  color: black;
+#outer-box {
+  border: 10px solid purple;
+}
+
+.inner-box {
+  background-color: red;
 }
